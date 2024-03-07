@@ -6,8 +6,8 @@ body {
 
 /* Dark mode */
 .dark-mode {
-  background-color: #121717;
-  color: #c9c9c9;
+  background-color: #202d64;
+  color: #dfecff;
 }
 
 #chat-window {
